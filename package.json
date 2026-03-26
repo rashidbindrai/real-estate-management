@@ -1,7 +1,6 @@
 {
-  "name": "real-estate-management",
+  "name": "your-project-name",
   "version": "1.0.0",
-  "description": "Real Estate Management System for 800+ units",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
@@ -19,18 +18,7 @@
     "extends": "react-app"
   },
   "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  },
-  "devDependencies": {
-    "tailwindcss": "^3.3.0"
+    "production": [">0.2%", "not dead", "not op_mini all"],
+    "development": ["last 1 chrome version", "last 1 firefox version", "last 1 safari version"]
   }
 }
